@@ -197,5 +197,4 @@ namespace fans
       bool? result3 = fa3.Run(s);
       Console.WriteLine(result3);
     }
-  }
 }
